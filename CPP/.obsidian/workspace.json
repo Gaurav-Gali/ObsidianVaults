@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3f7612a1728aa789",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a7e239f41150e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79cc7bc6c91b8b6c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c6dca926a3b1f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "48dc1d371e559ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee04c0b1e8993cda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "401820b1dbac619e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44ca373861401d45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c6e5701b235d201",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c61a44948ad743b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8350fc5388d4e66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fe5d0533a6694cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "601e9972d0382fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b960169c01de0630",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79cc7bc6c91b8b6c",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "OOPS/Polymorphism.md",
+    "OOPS/Virtual Functions.md",
+    "OOPS/Abstract Base Class.md",
+    "OOPS/Pointers to Derived Class.md",
+    "Standard Template Library/General.md",
+    "Standard Template Library/Map.md",
+    "Standard Template Library/Set.md",
+    "Standard Template Library/Stack.md",
+    "Standard Template Library/Queue and Priority Queue.md",
+    "Standard Template Library/Vectors in STL.md",
+    "Standard Template Library/List.md",
+    "Standard Template Library/Deque.md",
+    "Standard Template Library/Arrays in STL.md",
+    "Core/General.md",
+    "Templates/Overloading Template Functions.md",
+    "OOPS/Inheritance.md",
+    "Standard Template Library",
+    "Templates/Vector.md",
+    "Templates/Containers.md",
+    "Templates/STL , Standard Template Library.md",
+    "Templates/Function Templates.md",
+    "Templates/Multi Parameter Template.md",
+    "Templates/Template Syntax.md",
+    "OOPS/Array of Objects using Pointers.md",
+    "OOPS/This Pointer.md",
+    "OOPS/Pointers to Objects.md",
+    "Templates",
+    "File Handling",
+    "OOPS",
+    "Untitled 1.canvas",
+    "Core"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d6d074499b6804fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "abcb45e4163d9e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c202446e45ead91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REGEX aka Regular Expressions (Basics).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e707514d58eecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4274d24a45c215f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9061b89eb395865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2b97142fc5db6eca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59ef798591c3e190",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ebf2423f0fec492",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b71fe075eeb3c98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66249b8ae767397c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REGEX aka Regular Expressions (Basics).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c57b205a492161c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REGEX aka Regular Expressions (Basics).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4383053c1d06ae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54d966abdb779af8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REGEX aka Regular Expressions (Basics).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9061b89eb395865",
+  "lastOpenFiles": [
+    "REGEX aka Regular Expressions (Basics).md",
+    "Async IO.md",
+    "Function Caching.md",
+    "Generators.md",
+    "Super Keyword.md",
+    "Requests Module.md",
+    "Dunder aka Magic Methods.md",
+    "Decorators.md",
+    "Time Module.md",
+    "Class Methods.md",
+    "Static Methods.md",
+    "Inheritance and Access Modifiers.md",
+    "OOPS.md",
+    "Map Filter and Reduce.md",
+    "Lambda Functions.md",
+    "OS Module.md",
+    "Enumerate.md",
+    "Short hand conditionals.md",
+    "Error Handling.md",
+    "Dictionary methods.md",
+    "Set Methods.md",
+    "Recursion.md",
+    "Docstring and PEP-8.md",
+    "String formatting with FStrings.md",
+    "List Methods.md",
+    "Functions.md"
+  ]
+}

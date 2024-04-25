@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "d989e382fc82dbd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "723932a9d98af22d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef04ddc116f936d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15e7fdf3342d4da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6b131cc44d2e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403ea6be8f99a44b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "505bb45e9127d2e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0d2929fa02781bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "907bf39cb6b4c735",
+    "type": "split",
+    "children": [
+      {
+        "id": "927921dc6daaf3d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77e9d84272ac0ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "User Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "638abd38cb9c615a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "User Authentication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1600662afd2ebd42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "341a12651458e428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "User Authentication.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ef04ddc116f936d",
+  "lastOpenFiles": [
+    "User Authentication.md",
+    "Model Forms.md",
+    "Filtering Data.md",
+    "Installation And Setup.md",
+    "General.md",
+    "Creating views and Urls.md",
+    "Templates And Static Files.md",
+    "Database Relationships.md",
+    "Making DB Queries and Models.md",
+    "Media/manytomany.png",
+    "Media/onetomany.png",
+    "Untitled",
+    "Database and Admin Pannel.md",
+    "Model Relationships.md",
+    "Media/orderby.png",
+    "Media/filter.png",
+    "Media/db_q.png",
+    "Media/models.png",
+    "Media/mvt.png",
+    "Media"
+  ]
+}
