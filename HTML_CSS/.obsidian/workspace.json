@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e544e3a514989201",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb27fb4b76b2773d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d9fb8417886a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a5c17c7079d4e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recreating Some Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a936412b0a0b53d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hovers Transitions and Shadows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c60cfe3503939e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text Styles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36aac918b92250c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images and Text boxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0f5c13bb0103c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Display Property.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ad99107389453a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4a98a71898e773f",
+    "type": "split",
+    "children": [
+      {
+        "id": "612606396a85b4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e97efad0b29c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6cec2953643b6995",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8641e96c8a813fe8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afd0a8e87d0c43a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7189e23b292558e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11aeaace1dc5e9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS Grid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae106a90d8ac04a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS Grid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64cc033d8b068e0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab0a59804dad0dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS Grid.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8ad99107389453a4",
+  "lastOpenFiles": [
+    "CSS Display Property.md",
+    "Images and Text boxes.md",
+    "Text Styles.md",
+    "Hovers Transitions and Shadows.md",
+    "CSS Grid.md",
+    "Media/text.png",
+    "Media/buttons.png",
+    "Recreating Some Elements.md",
+    "General.md",
+    "Div Element.md",
+    "Media/SCR-20240428-omjv.png",
+    "Media/SCR-20240427-sjdo.png",
+    "Media",
+    "CSS",
+    "HTML"
+  ]
+}

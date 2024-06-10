@@ -1,35 +1,52 @@
 {
   "main": {
-    "id": "d989e382fc82dbd4",
+    "id": "9384add2d26aff98",
     "type": "split",
     "children": [
       {
-        "id": "ad951c6f7aea5440",
+        "id": "01417843a8363b46",
         "type": "tabs",
         "children": [
           {
-            "id": "956ee86b9e22f400",
+            "id": "7c3ea00b27ea17d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Callbacks Promises and Async Await.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b107bcb90b61e81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fetch API.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "15e7fdf3342d4da4",
+    "id": "f85df87092fee9db",
     "type": "split",
     "children": [
       {
-        "id": "ac6b131cc44d2e4b",
+        "id": "f4e0ca2110849276",
         "type": "tabs",
         "children": [
           {
-            "id": "403ea6be8f99a44b",
+            "id": "12ffc007b3bfcdc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +56,7 @@
             }
           },
           {
-            "id": "505bb45e9127d2e7",
+            "id": "810e3c9e1d2206cd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +71,7 @@
             }
           },
           {
-            "id": "f0d2929fa02781bc",
+            "id": "a781965cb98ddb15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "907bf39cb6b4c735",
+    "id": "03a5c667ed9a1010",
     "type": "split",
     "children": [
       {
-        "id": "927921dc6daaf3d1",
+        "id": "13917ac151578ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "d77e9d84272ac0ef",
+            "id": "84386364452ad896",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fetch API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +110,19 @@
             }
           },
           {
-            "id": "638abd38cb9c615a",
+            "id": "6b07db09219f5ee7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fetch API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1600662afd2ebd42",
+            "id": "56957f09c298dd0d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +133,13 @@
             }
           },
           {
-            "id": "341a12651458e428",
+            "id": "0a701e4870441977",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fetch API.md"
+              }
             }
           }
         ]
@@ -138,27 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "956ee86b9e22f400",
+  "active": "12ffc007b3bfcdc9",
   "lastOpenFiles": [
-    "Model Forms.md",
+    "Media/httpErrCode.JPG",
+    "Media",
+    "Callbacks Promises and Async Await.md",
+    "Fetch API.md",
     "General.md",
-    "Installation And Setup.md",
-    "User Authentication.md",
-    "Database and Admin Pannel.md",
-    "Database Relationships.md",
-    "Making DB Queries and Models.md",
-    "Templates And Static Files.md",
-    "Filtering Data.md",
-    "Creating views and Urls.md",
-    "Media/manytomany.png",
-    "Media/onetomany.png",
-    "Untitled",
-    "Model Relationships.md",
-    "Media/orderby.png",
-    "Media/filter.png",
-    "Media/db_q.png",
-    "Media/models.png",
-    "Media/mvt.png",
-    "Media"
+    "Variables and Datatypes.md",
+    "Conditional Statements and Operators.md",
+    "Loops and Strings.md",
+    "Arrays.md",
+    "DOM.md",
+    "Functions and Methods.md",
+    "Events.md",
+    "OOPS.md",
+    "Error Handling.md"
   ]
 }

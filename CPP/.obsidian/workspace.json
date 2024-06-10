@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a7e239f41150e6",
+        "id": "fd4a26c1e155d743",
         "type": "tabs",
         "children": [
           {
-            "id": "79cc7bc6c91b8b6c",
+            "id": "508bd9b7e5ebd29f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Core/Datatypes.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core/Datatypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core/Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core/Datatypes.md"
+              }
             }
           }
         ]
@@ -139,39 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79cc7bc6c91b8b6c",
+  "active": "508bd9b7e5ebd29f",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "OOPS/Polymorphism.md",
-    "OOPS/Virtual Functions.md",
-    "OOPS/Abstract Base Class.md",
-    "OOPS/Pointers to Derived Class.md",
     "Standard Template Library/General.md",
-    "Standard Template Library/Map.md",
-    "Standard Template Library/Set.md",
-    "Standard Template Library/Stack.md",
-    "Standard Template Library/Queue and Priority Queue.md",
+    "Core/Structures.md",
+    "Core/Union.md",
+    "Core/Enum.md",
     "Standard Template Library/Vectors in STL.md",
-    "Standard Template Library/List.md",
-    "Standard Template Library/Deque.md",
-    "Standard Template Library/Arrays in STL.md",
-    "Core/General.md",
-    "Templates/Overloading Template Functions.md",
-    "OOPS/Inheritance.md",
-    "Standard Template Library",
-    "Templates/Vector.md",
-    "Templates/Containers.md",
-    "Templates/STL , Standard Template Library.md",
-    "Templates/Function Templates.md",
-    "Templates/Multi Parameter Template.md",
-    "Templates/Template Syntax.md",
-    "OOPS/Array of Objects using Pointers.md",
+    "2024-05-03.md",
+    "OOPS/Abstract Base Class.md",
+    "OOPS/Virtual Functions.md",
+    "OOPS/Pointers to Derived Class.md",
+    "OOPS/Polymorphism.md",
     "OOPS/This Pointer.md",
+    "OOPS/Array of Objects using Pointers.md",
     "OOPS/Pointers to Objects.md",
+    "OOPS/Pointers in OOPS.md",
+    "OOPS/Initialisation List.md",
+    "OOPS/Constructor In Derived Class.md",
+    "OOPS/Virtual Base Class.md",
+    "OOPS/Ambiguity Resolution in Inheritance.md",
+    "OOPS/Multiple Inheritance.md",
+    "OOPS/Multilevel Inheritance.md",
+    "OOPS/Inheritance.md",
+    "OOPS/Destructors.md",
+    "OOPS/Copy Constructors.md",
+    "OOPS/Constructors.md",
+    "OOPS/Friend Functions.md",
+    "OOPS/Array Of Objects.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Standard Template Library",
     "Templates",
     "File Handling",
     "OOPS",
-    "Untitled 1.canvas",
     "Core"
   ]
 }
