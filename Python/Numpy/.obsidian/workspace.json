@@ -1,62 +1,98 @@
 {
   "main": {
-    "id": "a1ac029bfe5577a3",
+    "id": "fa3142686bb8e5e1",
     "type": "split",
     "children": [
       {
-        "id": "1ac80726b93e12df",
+        "id": "86455fe8770323b0",
         "type": "tabs",
         "children": [
           {
-            "id": "567b9412a949159b",
+            "id": "bd51dae2ef0651b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreJava/17_Dynamic Method Dispatch.md",
+                "file": "1_Setting Up Numpy.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "6d62a7f6f732ae33",
+            "id": "ba01cbaa08f39650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreJava/40_String Handling.md",
+                "file": "2_Arrays.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "533c573858ff1690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Creating Arrays using NumPy functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25932e099f36dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Some Array Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c16252cc87ad16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Filtering Searching and Sorting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "12219749cdf4d971",
+    "id": "bbb7186afa6f7d89",
     "type": "split",
     "children": [
       {
-        "id": "74c9bab316ea8c02",
+        "id": "8fad0510e61542bd",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc98b61db5f2495",
+            "id": "650f17423b85423f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "63e3cc01e3981291",
+            "id": "a0652808875fa025",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +107,7 @@
             }
           },
           {
-            "id": "1f42dc16b6b46cc0",
+            "id": "561e703ee5d3025f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +118,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "cac88bc339df5311",
+    "id": "c1b38ecca9b82112",
     "type": "split",
     "children": [
       {
-        "id": "82d6583beed04d2d",
+        "id": "79c1b0d6d466493e",
         "type": "tabs",
         "children": [
           {
-            "id": "4889ed627fc57109",
+            "id": "7e453694681f3d98",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreJava/40_String Handling.md",
+                "file": "4_Filtering Searching and Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +146,19 @@
             }
           },
           {
-            "id": "25b008d95550cf80",
+            "id": "6111d8acb419b2da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreJava/40_String Handling.md",
+                "file": "4_Filtering Searching and Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abc658ec6e33f5a2",
+            "id": "7400c50bb3d262d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +169,12 @@
             }
           },
           {
-            "id": "45d86c8f4969cf14",
+            "id": "ac49ad52e7bd95c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreJava/40_String Handling.md"
+                "file": "4_Filtering Searching and Sorting.md"
               }
             }
           }
@@ -159,44 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d62a7f6f732ae33",
+  "active": "c3c16252cc87ad16",
   "lastOpenFiles": [
-    "CoreJava/39_AutoBoxing and Auto-UnBoxing.md",
-    "CoreJava/38_Generics.md",
-    "CoreJava/37_Stream Api.md",
-    "CoreJava/36_For Each in Lists.md",
-    "CoreJava/35_Comparator And Comparable.md",
-    "CoreJava/34_Collection Api.md",
-    "CoreJava/33_Runnable.md",
-    "CoreJava/32_Threads.md",
-    "CoreJava/31_User Input.md",
-    "CoreJava/30_Exceptions.md",
-    "CoreJava/29_Types Of Interfaces.md",
-    "CoreJava/28_Lambda Expressions.md",
-    "CoreJava/27_Functional Interface.md",
-    "CoreJava/26_Annotation.md",
-    "CoreJava/25_Enums.md",
-    "CoreJava/24_Interface.md",
-    "CoreJava/23_Inner class.md",
-    "CoreJava/22_Abstract Keyword.md",
-    "CoreJava/21_Wrapper class.md",
-    "CoreJava/20_Upcasting And Down-casting.md",
-    "CoreJava/19_Object Class.md",
-    "CoreJava/18_Final Keyword.md",
-    "CoreJava/17_Dynamic Method Dispatch.md",
-    "CoreJava/16_Polymorphism.md",
-    "CoreJava/15_Access Modifiers.md",
-    "CoreJava/14_Packages.md",
-    "DSA/DSA.pdf",
-    "Spring Framework",
-    "CoreJava/Media/access.png",
-    "DSA/DSA_1698345677.pdf",
-    "CoreJava/Media/files.png",
-    "DSA",
-    "untitled folder",
-    "AdvancedJava",
-    "SCR-20231018-sqov.png",
-    "CoreJava/Media",
-    "CoreJava"
+    "3_Some Array Functions.md",
+    "4_Filtering Searching and Sorting.md",
+    "3_Creating Arrays using NumPy functions.md",
+    "1_Setting Up Numpy.md",
+    "2_Arrays.md"
   ]
 }

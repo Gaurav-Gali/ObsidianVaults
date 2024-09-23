@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01417843a8363b46",
+        "id": "2acb3640bce36093",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3ea00b27ea17d5",
+            "id": "f63c9e8db721b962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Callbacks Promises and Async Await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b107bcb90b61e81d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fetch API.md",
+                "file": "Conditional Statements and Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fetch API.md",
+                "file": "Conditional Statements and Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fetch API.md",
+                "file": "Conditional Statements and Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fetch API.md"
+                "file": "Conditional Statements and Operators.md"
               }
             }
           }
@@ -159,21 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ffc007b3bfcdc9",
+  "active": "f63c9e8db721b962",
   "lastOpenFiles": [
-    "Media/httpErrCode.JPG",
-    "Media",
-    "Callbacks Promises and Async Await.md",
     "Fetch API.md",
-    "General.md",
-    "Variables and Datatypes.md",
-    "Conditional Statements and Operators.md",
-    "Loops and Strings.md",
-    "Arrays.md",
+    "Callbacks Promises and Async Await.md",
+    "Error Handling.md",
+    "OOPS.md",
+    "Events.md",
     "DOM.md",
     "Functions and Methods.md",
-    "Events.md",
-    "OOPS.md",
-    "Error Handling.md"
+    "Arrays.md",
+    "Loops and Strings.md",
+    "Conditional Statements and Operators.md",
+    "Variables and Datatypes.md",
+    "General.md",
+    "Media/httpErrCode.JPG",
+    "Media"
   ]
 }

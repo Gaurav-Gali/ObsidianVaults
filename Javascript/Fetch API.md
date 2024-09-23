@@ -92,4 +92,4 @@ getCatFacts();
 ![[httpErrCode.JPG]]
 
 <hr>
-### Request and Response
+
