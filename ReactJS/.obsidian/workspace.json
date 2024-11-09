@@ -8,11 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5d1386b6ff93acc",
+            "id": "39b9b4e919da6c74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3_Creating React Components.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "3_Creating React Components"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_General And How React Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1_General And How React Works"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_General And How React Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1_General And How React Works"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_General And How React Works.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1_General And How React Works"
             }
           }
         ]
@@ -138,17 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5d1386b6ff93acc",
+  "active": "39b9b4e919da6c74",
   "lastOpenFiles": [
-    "9_useReducer Hook.md",
-    "6_State Management.md",
-    "5_Passing Components as Children , Handing Events And Passing Functions via Props.md",
-    "4_Fragments , Conditional Rendering , Props , CSS Modules.md",
-    "3_Creating React Components.md",
     "2_CreatingReactApp And Project Structure.md",
     "1_General And How React Works.md",
-    "8_Context API.md",
+    "3_Creating React Components.md",
+    "4_Fragments , Conditional Rendering , Props , CSS Modules.md",
+    "5_Passing Components as Children , Handing Events And Passing Functions via Props.md",
+    "6_State Management.md",
     "7_Forms in react , useRef Hook.md",
+    "8_Context API.md",
+    "9_useReducer Hook.md",
+    "Firebase/1_Setting Up Firebase With React.md",
+    "Firebase/3_FireStore.md",
+    "Firebase/2_Authentication Using Firebase.md",
+    "Firebase",
     "Media/usereducer.png",
     "Media/contextapi.png",
     "Media/states.png",

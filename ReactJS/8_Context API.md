@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=31115)
+[Source](https://youtu.be/eILUmCJhl64?t=31115)
 
 1. Prop drilling : Context API solves the issue of prop drilling.
 2. Folder setup : Use a **store** folder for context files.

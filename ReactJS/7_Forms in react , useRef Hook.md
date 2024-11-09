@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=29058)
+[Source](https://youtu.be/eILUmCJhl64?t=29058)
 
 1. State Management : Each input's state is stored in the component's state.
 2. Handling Changes : Use **onChange** to detect input changes.

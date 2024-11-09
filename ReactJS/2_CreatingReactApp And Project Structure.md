@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=2054)
+[Source](https://youtu.be/eILUmCJhl64?t=2054)
 
 1. Initially CRA (Create React App) was used. To start the server , use ==npm start==
 2. Using **vite** is the modern way of creating react apps.

@@ -1,4 +1,4 @@
-![Source](https://www.youtube.com/watch?v=eILUmCJhl64&t=20325s)
+[Source](https://www.youtube.com/watch?v=eILUmCJhl64&t=20325s)
 
 1. State represents data that changes over time.
 2. State is local and private to that component.
@@ -43,4 +43,12 @@ const updateLis = () => {
 };
 ```
 
+### Use Ref Hook
 
+**The problem with useState** :
+When a state is being updated , even though the value is not being used in the ui , the component will re-render.
+To avoid this we use useRef , which does not re-render when it's state is changed.
+
+```js
+
+```

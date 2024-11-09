@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=4089)
+[Source](https://youtu.be/eILUmCJhl64?t=4089)
 
 ### File Extensions
 1. .js : It is the standard javascript extension and the file contains plain/vanilla javascript code.

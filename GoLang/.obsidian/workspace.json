@@ -1,53 +1,82 @@
 {
   "main": {
-    "id": "a1ac029bfe5577a3",
+    "id": "f1aab5f5520ec88d",
     "type": "split",
     "children": [
       {
-        "id": "f31364c786acacbc",
+        "id": "7d8dfeac6e51b6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "0210a39fdafda6b6",
+            "id": "423fbb3a5586c582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreJava/30_Exceptions.md",
+                "file": "1_General.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "30_Exceptions"
+              "title": "1_General"
+            }
+          },
+          {
+            "id": "966b7b3b49f72cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Workspace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_Workspace"
+            }
+          },
+          {
+            "id": "d330a523f13833dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3_Variables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "12219749cdf4d971",
+    "id": "ca82485c526ccbf6",
     "type": "split",
     "children": [
       {
-        "id": "74c9bab316ea8c02",
+        "id": "be20f9213fcf42bd",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc98b61db5f2495",
+            "id": "e98e99115e29a728",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "63e3cc01e3981291",
+            "id": "27ac3bf5dc0bc0c5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +93,7 @@
             }
           },
           {
-            "id": "1f42dc16b6b46cc0",
+            "id": "215a8a540924aa94",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,19 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "cac88bc339df5311",
+    "id": "a8023f3c95d24b74",
     "type": "split",
     "children": [
       {
-        "id": "82d6583beed04d2d",
+        "id": "1c57e4fdcf67cfe4",
         "type": "tabs",
         "children": [
           {
-            "id": "4889ed627fc57109",
+            "id": "3a32cbf38dc0667b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3_Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 3_Variables"
             }
           },
           {
-            "id": "25b008d95550cf80",
+            "id": "8784b0aae9c0ca7b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3_Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3_Variables"
             }
           },
           {
-            "id": "abc658ec6e33f5a2",
+            "id": "c33b66810b69dd20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +163,15 @@
             }
           },
           {
-            "id": "45d86c8f4969cf14",
+            "id": "951367c06ab2c377",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3_Variables.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3_Variables"
             }
           }
         ]
@@ -158,46 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0210a39fdafda6b6",
+  "active": "d330a523f13833dd",
   "lastOpenFiles": [
-    "CoreJava/39_AutoBoxing and Auto-UnBoxing.md",
-    "CoreJava/32_Threads.md",
-    "CoreJava/38_Generics.md",
-    "CoreJava/37_Stream Api.md",
-    "CoreJava/35_Comparator And Comparable.md",
-    "CoreJava/34_Collection Api.md",
-    "1_General.md",
-    "CoreJava/30_Exceptions.md",
-    "CoreJava/16_Polymorphism.md",
-    "CoreJava/13_Method Overriding.md",
-    "CoreJava/24_Interface.md",
-    "CoreJava/23_Inner class.md",
-    "CoreJava/10_Encapsulation.md",
-    "CoreJava/17_Dynamic Method Dispatch.md",
-    "CoreJava/18_Final Keyword.md",
-    "CoreJava/19_Object Class.md",
-    "CoreJava/20_Upcasting And Down-casting.md",
-    "CoreJava/21_Wrapper class.md",
-    "CoreJava/22_Abstract Keyword.md",
-    "CoreJava/5_Class And Object Theory.md",
-    "Spring Boot",
-    "Collections Api",
-    "CoreJava/27_Functional Interface.md",
-    "CoreJava/28_Lambda Expressions.md",
-    "CoreJava/29_Types Of Interfaces.md",
-    "CoreJava/31_User Input.md",
-    "CoreJava/33_Runnable.md",
-    "CoreJava/java.lang and java.util package.md",
-    "DSA/DSA.pdf",
-    "Spring Framework",
-    "CoreJava/Media/access.png",
-    "DSA/DSA_1698345677.pdf",
-    "CoreJava/Media/files.png",
-    "DSA",
-    "untitled folder",
-    "AdvancedJava",
-    "SCR-20231018-sqov.png",
-    "CoreJava/Media",
-    "CoreJava"
+    "4_Naming conventions , Visibility and Type Conversions.md",
+    "3_Variables.md",
+    "2_Workspace.md",
+    "1_General.md"
   ]
 }

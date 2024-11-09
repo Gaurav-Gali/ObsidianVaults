@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=270)
+[Source](https://youtu.be/eILUmCJhl64?t=270)
 
 1. React is a JavaScript library used to build frontend UI.
 2. It is developed by FaceBook on 2011 and is used to create dynamic single page applications.

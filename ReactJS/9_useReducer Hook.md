@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=33315)
+[Source](https://youtu.be/eILUmCJhl64?t=33315)
 
 **When to use useReducer hook** ?
 	==Use this hook when multiple states have to be updated in a single function.==

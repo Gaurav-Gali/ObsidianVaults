@@ -1,4 +1,4 @@
-![Source](https://youtu.be/eILUmCJhl64?t=17450)
+[Source](https://youtu.be/eILUmCJhl64?t=17450)
 
 ### Passing Components as Children
 ==Children is a special prop for passing elements into components==
