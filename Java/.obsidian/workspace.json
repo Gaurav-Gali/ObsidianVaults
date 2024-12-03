@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreJava/30_Exceptions.md",
+                "file": "CoreJava/java.lang and java.util package.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "30_Exceptions"
+              "title": "java.lang and java.util package"
+            }
+          },
+          {
+            "id": "be35a5e815503f92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,36 +171,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0210a39fdafda6b6",
+  "active": "be35a5e815503f92",
   "lastOpenFiles": [
+    "CoreJava/40_String Handling.md",
     "CoreJava/39_AutoBoxing and Auto-UnBoxing.md",
-    "CoreJava/32_Threads.md",
-    "CoreJava/38_Generics.md",
-    "CoreJava/37_Stream Api.md",
-    "CoreJava/35_Comparator And Comparable.md",
     "CoreJava/34_Collection Api.md",
-    "1_General.md",
+    "CoreJava/37_Stream Api.md",
     "CoreJava/30_Exceptions.md",
-    "CoreJava/16_Polymorphism.md",
-    "CoreJava/13_Method Overriding.md",
+    "CoreJava/28_Lambda Expressions.md",
+    "CoreJava/25_Enums.md",
     "CoreJava/24_Interface.md",
     "CoreJava/23_Inner class.md",
+    "CoreJava/22_Abstract Keyword.md",
+    "CoreJava/21_Wrapper class.md",
+    "CoreJava/7_Method Overloading.md",
+    "CoreJava/32_Threads.md",
+    "CoreJava/38_Generics.md",
+    "CoreJava/35_Comparator And Comparable.md",
+    "1_General.md",
+    "CoreJava/16_Polymorphism.md",
+    "CoreJava/13_Method Overriding.md",
     "CoreJava/10_Encapsulation.md",
     "CoreJava/17_Dynamic Method Dispatch.md",
     "CoreJava/18_Final Keyword.md",
     "CoreJava/19_Object Class.md",
     "CoreJava/20_Upcasting And Down-casting.md",
-    "CoreJava/21_Wrapper class.md",
-    "CoreJava/22_Abstract Keyword.md",
     "CoreJava/5_Class And Object Theory.md",
     "Spring Boot",
     "Collections Api",
     "CoreJava/27_Functional Interface.md",
-    "CoreJava/28_Lambda Expressions.md",
     "CoreJava/29_Types Of Interfaces.md",
-    "CoreJava/31_User Input.md",
-    "CoreJava/33_Runnable.md",
-    "CoreJava/java.lang and java.util package.md",
     "DSA/DSA.pdf",
     "Spring Framework",
     "CoreJava/Media/access.png",

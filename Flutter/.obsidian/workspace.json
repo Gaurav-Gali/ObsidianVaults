@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f928aead5f6f575a",
+    "id": "c9804df4173cb4c6",
     "type": "split",
     "children": [
       {
-        "id": "b45d6403a25f81ac",
+        "id": "8fe0828991313e35",
         "type": "tabs",
         "children": [
           {
-            "id": "39b9b4e919da6c74",
+            "id": "5a8c23591dafbeda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Forms in react , useRef Hook.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7_Forms in react , useRef Hook"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "64b4b7e0ec1e52e2",
+    "id": "f8b62bfa2d6316d0",
     "type": "split",
     "children": [
       {
-        "id": "bf7f7e2a012b53f0",
+        "id": "4f513c651dcc095d",
         "type": "tabs",
         "children": [
           {
-            "id": "5989b3cf38820a6c",
+            "id": "edf43aa004a05da3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "653510dabd5ddea0",
+            "id": "a030ad6b943a01a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "8a8d28f6ff95356e",
+            "id": "4ff1027f7441b976",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "4d99684186c8a489",
+    "id": "f14de4228259491d",
     "type": "split",
     "children": [
       {
-        "id": "83e06eb466f42863",
+        "id": "570e97be5be90d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "3772b472b1f8eb11",
+            "id": "702d02da1b14074f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_General And How React Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1_General And How React Works"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c6b131c06b045873",
+            "id": "2c63c20cdafb75e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_General And How React Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1_General And How React Works"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b08bfc504c09b34e",
+            "id": "d1fff552fcb7aa25",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +128,13 @@
             }
           },
           {
-            "id": "d931d4db69bd6ded",
+            "id": "45ae4898c88ea209",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_General And How React Works.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 1_General And How React Works"
+              "title": "Outline"
             }
           }
         ]
@@ -162,29 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b9b4e919da6c74",
-  "lastOpenFiles": [
-    "6_State Management.md",
-    "5_Passing Components as Children , Handing Events And Passing Functions via Props.md",
-    "3_Creating React Components.md",
-    "Using uuid.md",
-    "9_useReducer Hook.md",
-    "8_Context API.md",
-    "7_Forms in react , useRef Hook.md",
-    "4_Fragments , Conditional Rendering , Props , CSS Modules.md",
-    "2_CreatingReactApp And Project Structure.md",
-    "1_General And How React Works.md",
-    "Firebase/1_Setting Up Firebase With React.md",
-    "Firebase/3_FireStore.md",
-    "Firebase/2_Authentication Using Firebase.md",
-    "Firebase",
-    "Media/usereducer.png",
-    "Media/contextapi.png",
-    "Media/states.png",
-    "Media/eventhandling.png",
-    "Media/SCR-20240706-mcyu.png",
-    "Media",
-    "untitled folder",
-    "2024-06-11.md"
-  ]
+  "active": "5a8c23591dafbeda",
+  "lastOpenFiles": []
 }

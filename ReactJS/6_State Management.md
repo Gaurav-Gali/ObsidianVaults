@@ -43,12 +43,58 @@ const updateLis = () => {
 };
 ```
 
-### Use Ref Hook
+### useRef Hook
 
 **The problem with useState** :
 When a state is being updated , even though the value is not being used in the ui , the component will re-render.
 To avoid this we use useRef , which does not re-render when it's state is changed.
 
 ```js
+import {useRef} from React;
+
+const nameref = useRef("");
+
+console.log(nameref.current.value);
+```
+
+### useEffect Hook
+
+**Component Lifecycle**
+1. Mount
+```js
+useEffect(() => {
+  console.log("Component mounted");
+}, []);
+```
+3. Updation
+```js
+const [count, setCount] = useState(0);
+
+useEffect(() => {
+  console.log(`Count changed to ${count}`);
+}, [count]);
+
+```
+1. Unmounting
+```js
+useEffect(() => {
+  return () => {
+	  console.log("Unmounted");
+  }
+}, []);
+```
+
+### Important use case
+**Fetching data from api**
+
+```js
+useEffect(() => {
+  async function fetchData() {
+    const response = await fetch("https://api.example.com/data");
+    const data = await response.json();
+    console.log(data);
+  }
+  fetchData();
+}, []);
 
 ```
