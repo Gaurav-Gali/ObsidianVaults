@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "9e4c01fd5584f70b",
+    "id": "11894b46dc015e8e",
     "type": "split",
     "children": [
       {
-        "id": "558c12e8cf2eb295",
+        "id": "32090a7f6568a405",
         "type": "tabs",
         "children": [
           {
-            "id": "37f642fb1bf8bbf4",
+            "id": "5400cb9f5b470cbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6_Fonts.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6_Fonts"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e33b28246d75b41f",
+    "id": "b3fa78d655b07d18",
     "type": "split",
     "children": [
       {
-        "id": "7430f021f42a3da6",
+        "id": "ba2b872688a6801f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef1baa86dcaa4dc",
+            "id": "970e5b1153146c9d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "686496d4ef1134dc",
+            "id": "f4858a6e4c0c0825",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "c5c6fb6279d92b2a",
+            "id": "4ac3b0d45f5f15aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "a6a13986f764121b",
+    "id": "d4522cd323b34c36",
     "type": "split",
     "children": [
       {
-        "id": "d1c16c92fcc49378",
+        "id": "8e909629877c1080",
         "type": "tabs",
         "children": [
           {
-            "id": "540a9fab081b1a97",
+            "id": "cf9483bd2ab4b244",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1_General"
             }
           },
           {
-            "id": "002f4b9a3f3aa69d",
+            "id": "fa4f359a32ac9b07",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1_General"
             }
           },
           {
-            "id": "b3698103d93542e6",
+            "id": "706ac9baf46bacae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,13 +134,15 @@
             }
           },
           {
-            "id": "f962aa6fca15860d",
+            "id": "4840e9b62091e509",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "1_General.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1_General"
             }
           }
         ]
@@ -154,14 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f642fb1bf8bbf4",
+  "active": "5400cb9f5b470cbc",
   "lastOpenFiles": [
-    "2_GenAI Pipeline.md",
-    "3_Data Preprocessing and Cleaning.md",
-    "1_General.md",
-    "media/parsing.png",
-    "media/disc_vs_gen.png",
-    "media/ai_venn.png",
-    "media"
+    "5_Authentication with AuthJS.md",
+    "4_Data Fetching.md",
+    "3_Route Hadlers.md",
+    "6_Fonts.md",
+    "2_Routing.md",
+    "1_General.md"
   ]
 }

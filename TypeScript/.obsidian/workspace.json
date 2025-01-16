@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9e4c01fd5584f70b",
+    "id": "bf8c0399bd3871f5",
     "type": "split",
     "children": [
       {
-        "id": "558c12e8cf2eb295",
+        "id": "36b69ad1b535f4c7",
         "type": "tabs",
         "children": [
           {
-            "id": "37f642fb1bf8bbf4",
+            "id": "6cb18eb4f50cfa54",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e33b28246d75b41f",
+    "id": "3b8cac0d13fd839c",
     "type": "split",
     "children": [
       {
-        "id": "7430f021f42a3da6",
+        "id": "5e5e6a5c774086d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef1baa86dcaa4dc",
+            "id": "110bcee4f5aae7e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "686496d4ef1134dc",
+            "id": "51ff1e39065d7198",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "c5c6fb6279d92b2a",
+            "id": "733479b1af44ef4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "a6a13986f764121b",
+    "id": "9aa1ea93fb93f9b3",
     "type": "split",
     "children": [
       {
-        "id": "d1c16c92fcc49378",
+        "id": "2dfcc93b4b3923ab",
         "type": "tabs",
         "children": [
           {
-            "id": "540a9fab081b1a97",
+            "id": "71b0eb24a3621e2e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "002f4b9a3f3aa69d",
+            "id": "c21ba40ff5cee050",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "b3698103d93542e6",
+            "id": "1e007319ae980bfc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +128,7 @@
             }
           },
           {
-            "id": "f962aa6fca15860d",
+            "id": "0155a77d75f5fcb5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,14 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f642fb1bf8bbf4",
-  "lastOpenFiles": [
-    "2_GenAI Pipeline.md",
-    "3_Data Preprocessing and Cleaning.md",
-    "1_General.md",
-    "media/parsing.png",
-    "media/disc_vs_gen.png",
-    "media/ai_venn.png",
-    "media"
-  ]
+  "active": "6cb18eb4f50cfa54",
+  "lastOpenFiles": []
 }
