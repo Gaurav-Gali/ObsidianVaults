@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "f928aead5f6f575a",
+    "id": "4dc4846f699113a4",
     "type": "split",
     "children": [
       {
-        "id": "b45d6403a25f81ac",
+        "id": "bd8a1f048bf778ee",
         "type": "tabs",
         "children": [
           {
-            "id": "39b9b4e919da6c74",
+            "id": "107781a4ae772c15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9_useReducer Hook.md",
-                "mode": "preview",
-                "source": true
+                "file": "1_Installation.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "9_useReducer Hook"
+              "title": "1_Installation"
+            }
+          },
+          {
+            "id": "b89bede2b37da6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Installation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Installation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "64b4b7e0ec1e52e2",
+    "id": "6506d63fb6ab1478",
     "type": "split",
     "children": [
       {
-        "id": "bf7f7e2a012b53f0",
+        "id": "f696e4f3b592be85",
         "type": "tabs",
         "children": [
           {
-            "id": "5989b3cf38820a6c",
+            "id": "f502c2f70547f2ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "653510dabd5ddea0",
+            "id": "e2f0888ea7009c17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "8a8d28f6ff95356e",
+            "id": "b9abf3ecea6c5b15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "4d99684186c8a489",
+    "id": "c3d3cfa4cbebadd8",
     "type": "split",
     "children": [
       {
-        "id": "83e06eb466f42863",
+        "id": "faf6ae892c354c27",
         "type": "tabs",
         "children": [
           {
-            "id": "3772b472b1f8eb11",
+            "id": "18cfe12c0c05a1b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_General And How React Works.md",
+                "file": "1_Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +119,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1_General And How React Works"
+              "title": "Backlinks for 1_Installation"
             }
           },
           {
-            "id": "c6b131c06b045873",
+            "id": "a029a25c2741c16f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_General And How React Works.md",
+                "file": "1_Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1_General And How React Works"
+              "title": "Outgoing links from 1_Installation"
             }
           },
           {
-            "id": "b08bfc504c09b34e",
+            "id": "a7e1ec232c26f450",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "d931d4db69bd6ded",
+            "id": "5a7a19ea647b0412",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_General And How React Works.md"
+                "file": "1_Installation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_General And How React Works"
+              "title": "Outline of 1_Installation"
             }
           }
         ]
@@ -163,29 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b9b4e919da6c74",
+  "active": "b89bede2b37da6d0",
   "lastOpenFiles": [
-    "8_Context API.md",
-    "7_Forms in react , useRef Hook.md",
-    "6_State Management.md",
-    "5_Passing Components as Children , Handing Events And Passing Functions via Props.md",
-    "4_Fragments , Conditional Rendering , Props , CSS Modules.md",
-    "3_Creating React Components.md",
-    "2_CreatingReactApp And Project Structure.md",
-    "1_General And How React Works.md",
-    "Using uuid.md",
-    "9_useReducer Hook.md",
-    "Firebase/1_Setting Up Firebase With React.md",
-    "Firebase/3_FireStore.md",
-    "Firebase/2_Authentication Using Firebase.md",
-    "Firebase",
-    "Media/usereducer.png",
-    "Media/contextapi.png",
-    "Media/states.png",
-    "Media/eventhandling.png",
-    "Media/SCR-20240706-mcyu.png",
-    "Media",
-    "untitled folder",
-    "2024-06-11.md"
+    "2_Custom_Title_Bar.md",
+    "1_Installation.md"
   ]
 }
