@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "cf34602d64658f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ac46176d2aa3eb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a216778e0e64f71c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "381b2981cac89040",
+    "type": "split",
+    "children": [
+      {
+        "id": "842011aa58c43ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6b2a0162d7e2d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14c8bb6ac05596fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bcc10cc716706a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "514fcac4b15825c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68c9f952073c8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4fd7b59b7e0e62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b80ae9c64c43fd45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "044e4738e377f5af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23c79cefc9faa7f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a216778e0e64f71c",
+  "lastOpenFiles": [
+    "24_Interface.md",
+    "10_Encapsulation.md",
+    "26_Annotation.md",
+    "25_Enums.md",
+    "21_Wrapper class.md",
+    "23_Inner class.md",
+    "17_Dynamic Method Dispatch.md",
+    "16_Polymorphism.md",
+    "15_Access Modifiers.md",
+    "14_Packages.md",
+    "13_Method Overriding.md",
+    "11_Constructor And Super Method.md",
+    "7_Method Overloading.md",
+    "5_Class And Object Theory.md",
+    "2_Typecasting.md",
+    "1_Data Types.md"
+  ]
+}
