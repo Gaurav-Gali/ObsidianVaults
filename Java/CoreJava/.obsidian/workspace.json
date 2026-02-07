@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac46176d2aa3eb7",
+        "id": "c28caa89ded28719",
         "type": "tabs",
         "children": [
           {
-            "id": "a216778e0e64f71c",
+            "id": "631a53f8b7fe3d92",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,23 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a216778e0e64f71c",
+  "active": "631a53f8b7fe3d92",
   "lastOpenFiles": [
+    "7_Method Overloading.md",
     "24_Interface.md",
-    "10_Encapsulation.md",
+    "java.lang and java.util package.md",
+    "40_String Handling.md",
+    "39_AutoBoxing and Auto-UnBoxing.md",
+    "38_Generics.md",
+    "37_Stream Api.md",
+    "36_For Each in Lists.md",
+    "35_Comparator And Comparable.md",
+    "34_Collection Api.md",
+    "33_Runnable.md",
+    "32_Threads.md",
+    "31_User Input.md",
+    "30_Exceptions.md",
+    "29_Types Of Interfaces.md",
+    "28_Lambda Expressions.md",
+    "27_Functional Interface.md",
     "26_Annotation.md",
     "25_Enums.md",
-    "21_Wrapper class.md",
     "23_Inner class.md",
-    "17_Dynamic Method Dispatch.md",
-    "16_Polymorphism.md",
-    "15_Access Modifiers.md",
-    "14_Packages.md",
-    "13_Method Overriding.md",
-    "11_Constructor And Super Method.md",
-    "7_Method Overloading.md",
-    "5_Class And Object Theory.md",
-    "2_Typecasting.md",
-    "1_Data Types.md"
+    "22_Abstract Keyword.md",
+    "21_Wrapper class.md",
+    "20_Upcasting And Down-casting.md",
+    "19_Object Class.md",
+    "18_Final Keyword.md",
+    "17_Dynamic Method Dispatch.md"
   ]
 }
